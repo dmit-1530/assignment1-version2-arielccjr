@@ -139,3 +139,16 @@ Instead, try using a <span> element and vairous CSS properties.
 If you need to hook part of an element inside of another element (ex. part of a text element), try using <span>.
 
 Do not use any bold tags (<b>), as these are deprecated. Instead, try <strong>.
+
+# Brightspace Instructions
+Instructions
+Assignment 1 is a two-page responsive flexbox layout. 
+
+Download the assets folder for the required images, the Figma file for the layout, and the accompanying instructions and marking guide.
+
+Next, follow the provided GitHub Classroom Link to accept the assignment and clone down a local copy of the generated repository. Work on this repository locally and push your commits back up to the remote repository as you work. Your instructor will see your work as you submit commits and can provide help or feedback from these files if requested.
+
+Submission Requirements
+The assignment will be submitted via the GitHub Classroom repository. Push all completed files to the repository before the due date and time. Any commits submitted after the due date will be rolled back and ignored.
+
+LATE SUBMISSIONS WILL NOT BE GRADED.
