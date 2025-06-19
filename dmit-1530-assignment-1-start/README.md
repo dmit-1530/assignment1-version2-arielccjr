@@ -115,3 +115,27 @@ DMIT 1530 – Web Design Fundamentals II | Assignment 1 2
 Submission
 Push the assignment files to the GitHub Classroom assignment before the due date.
 Late assignments will not be accepted.
+
+# Developer Notes:
+## Common Colours, Typographic Styles, and Lengths
+This Figma has Local Variable and Local Styles. Study these colours and typographic settings, as they are applied throughout the composition.
+
+### Hint
+These would make for ezxellent CSS Custom Porpoerties, or variables.
+All distances between elements are measured in intervals of 0.5 real ephemeral units (rem). In order to use this website's design system as effectiively as possible, you could also convert these measurements into variables.
+
+## Common Mistakes
+Before using a non-semantic tag (i.e. a <span> or a <div>), check to see whether or not a semantic element could be used instead, such as a <section>.
+
+Remember that all <section> elements must have at least one heading inside.
+
+It does not make sense to mark up a single asterisk as its own heading because it is a decorative flourish or ornamentation meant to separate points (ex. a dinkus), not real content.
+
+Do not mark up headings based upon their size. Instead make sure that they are in a logical, descending order in each semantic section.
+
+Do not use any break tag (<br/>) to break the line or add space, as this is non-semantic.
+Instead, try using a <span> element and vairous CSS properties.
+
+If you need to hook part of an element inside of another element (ex. part of a text element), try using <span>.
+
+Do not use any bold tags (<b>), as these are deprecated. Instead, try <strong>.
